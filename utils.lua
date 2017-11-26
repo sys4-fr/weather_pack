@@ -80,7 +80,7 @@ end
 local np_temp = {
 	offset = 50,
 	scale = 50,
-	spread = {x = 1000, y = 1000, z = 1000},
+	spread = {x = 350, y = 350, z = 350},
 	seed = 5349,
 	octaves = 3,
 	persist = 0.5,
@@ -90,7 +90,7 @@ local np_temp = {
 local np_humid = {
 	offset = 50,
 	scale = 50,
-	spread = {x = 1000, y = 1000, z = 1000},
+	spread = {x = 350, y = 350, z = 350},
 	seed = 842,
 	octaves = 3,
 	persist = 0.5,
